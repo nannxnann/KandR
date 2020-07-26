@@ -76,3 +76,14 @@ char pattern = "ould"賦值
 
 ## 4.11 The C Preprocessor
 
+
+
+
+---
+## Remain Work & Note
+
+#### remain
+ * ex11
+#### note
+ex 8 9練習 寫在同一c檔案 ex8.c 內
+ex 3~7 練習 則寫在同一檔案 ex3.c 內
